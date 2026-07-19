@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ملوك القرصنة",
+  "description": "نسخة متكاملة وتفاعلية من لعبة ملوك القرصنة الشهيرة، تشمل صيد الأسماك، إدارة الأساطيل، توظيف القراصنة، الانضمام للقبائل، شات حي، وتحدي الصدارة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
